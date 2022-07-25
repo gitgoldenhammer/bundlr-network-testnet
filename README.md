@@ -202,3 +202,9 @@ docker-compose -f $HOME/validator-rust/docker-compose.yml logs -f --tail 10
 * Benim rehberimden kurmadıysanız port çalışmaz, 1984 ben ekledım.
 * İP yazan kısma sunucu İP'inizi yazın. 194.060.xxx.. diye başlayan.
 * Amount staked 2500 yapıp approve diyin, görselde ki gibi bir ekran çıkıcak
+
+# Hesaplar:
+
+[<img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="16px"> Twitter   ](https://twitter.com/WidenYour) 
+
+[<img src="https://cdn-icons-png.flaticon.com/512/1336/1336494.png" width="16px"> Linktree   ](https://linktr.ee/goldenhammer)
